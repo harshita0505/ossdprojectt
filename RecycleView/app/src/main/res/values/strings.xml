@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+
+    <string-array name="pet_name">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>rat</item>
+        <item>rabbit</item>
+        <item>peacock</item>
+        <item>parrot</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Cat is cute</item>
+        <item>Dog is faithful</item>
+        <item>rat eats cheese</item>
+        <item>rabbit is white</item>
+        <item>peacock is nice</item>
+        <item>parrot eats chilly lol</item>
+    </string-array>
+</resources>
